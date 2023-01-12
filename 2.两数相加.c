@@ -7,6 +7,7 @@
 /**
  * Definition for singly-linked list.
  */
+#include<stdio.h>
 struct ListNode
 {
     int val;
